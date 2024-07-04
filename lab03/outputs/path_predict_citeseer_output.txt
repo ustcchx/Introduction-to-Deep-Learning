@@ -1,0 +1,32 @@
+epoch: 19, running loss(train data): 0.09050874412059784, AUROC score(val data): 0.9929822683334351
+epoch: 39, running loss(train data): 0.07921019196510315, AUROC score(val data): 0.9932457804679871
+epoch: 59, running loss(train data): 0.06788276880979538, AUROC score(val data): 0.9940122365951538
+epoch: 79, running loss(train data): 0.05752132833003998, AUROC score(val data): 0.9944921731948853
+epoch: 99, running loss(train data): 0.049202173948287964, AUROC score(val data): 0.9942637085914612
+epoch: 119, running loss(train data): 0.042055413126945496, AUROC score(val data): 0.9937222003936768
+epoch: 139, running loss(train data): 0.03604613244533539, AUROC score(val data): 0.9934259653091431
+epoch: 159, running loss(train data): 0.031046230345964432, AUROC score(val data): 0.9938273429870605
+epoch: 179, running loss(train data): 0.02712632529437542, AUROC score(val data): 0.9941622018814087
+epoch: 199, running loss(train data): 0.029804479330778122, AUROC score(val data): 0.992854118347168
+epoch: 219, running loss(train data): 0.025058327242732048, AUROC score(val data): 0.9942564368247986
+epoch: 239, running loss(train data): 0.022860947996377945, AUROC score(val data): 0.994292676448822
+epoch: 259, running loss(train data): 0.023415405303239822, AUROC score(val data): 0.9954895377159119
+epoch: 279, running loss(train data): 0.01773596554994583, AUROC score(val data): 0.9958304166793823
+epoch: 299, running loss(train data): 0.01998579315841198, AUROC score(val data): 0.9965981841087341
+epoch: 319, running loss(train data): 0.02119487151503563, AUROC score(val data): 0.9967951774597168
+epoch: 339, running loss(train data): 0.019424304366111755, AUROC score(val data): 0.9967371821403503
+epoch: 359, running loss(train data): 0.01823379658162594, AUROC score(val data): 0.9970127940177917
+epoch: 379, running loss(train data): 0.03915642574429512, AUROC score(val data): 0.9978819489479065
+epoch: 399, running loss(train data): 0.025343989953398705, AUROC score(val data): 0.9970707893371582
+epoch: 419, running loss(train data): 0.022585036233067513, AUROC score(val data): 0.9982749223709106
+epoch: 439, running loss(train data): 0.029048893600702286, AUROC score(val data): 0.998063325881958
+epoch: 459, running loss(train data): 0.020191682502627373, AUROC score(val data): 0.9977405667304993
+epoch: 479, running loss(train data): 0.027181614190340042, AUROC score(val data): 0.9973270893096924
+epoch: 499, running loss(train data): 0.021694092079997063, AUROC score(val data): 0.9967637658119202
+epoch: 519, running loss(train data): 0.01899763196706772, AUROC score(val data): 0.9979932308197021
+epoch: 539, running loss(train data): 0.017826832830905914, AUROC score(val data): 0.9975688457489014
+epoch: 559, running loss(train data): 0.017370378598570824, AUROC score(val data): 0.9980983734130859
+epoch: 579, running loss(train data): 0.023329319432377815, AUROC score(val data): 0.9980911016464233
+epoch: 599, running loss(train data): 0.022691240534186363, AUROC score(val data): 0.9966331720352173
+Finall AUROC score(test data): 0.9975701570510864
+loss-55.png is saved

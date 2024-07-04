@@ -1,0 +1,21 @@
+epoch: 19, running loss(train data): 1.6079773902893066, Accuracy(val data): 0.410526305437088
+epoch: 39, running loss(train data): 1.4760421514511108, Accuracy(val data): 0.5849624276161194
+epoch: 59, running loss(train data): 1.4248639345169067, Accuracy(val data): 0.6345864534378052
+epoch: 79, running loss(train data): 1.388340950012207, Accuracy(val data): 0.6586466431617737
+epoch: 99, running loss(train data): 1.358548879623413, Accuracy(val data): 0.6842105388641357
+epoch: 119, running loss(train data): 1.3330128192901611, Accuracy(val data): 0.7052631378173828
+epoch: 139, running loss(train data): 1.3098706007003784, Accuracy(val data): 0.7067669034004211
+epoch: 159, running loss(train data): 1.2894847393035889, Accuracy(val data): 0.7082706689834595
+epoch: 179, running loss(train data): 1.2709294557571411, Accuracy(val data): 0.7127819657325745
+epoch: 199, running loss(train data): 1.2540477514266968, Accuracy(val data): 0.7157894968986511
+epoch: 219, running loss(train data): 1.2378132343292236, Accuracy(val data): 0.7187970280647278
+epoch: 239, running loss(train data): 1.2221999168395996, Accuracy(val data): 0.7203007340431213
+epoch: 259, running loss(train data): 1.2070940732955933, Accuracy(val data): 0.7187970280647278
+epoch: 279, running loss(train data): 1.1932247877120972, Accuracy(val data): 0.7142857313156128
+epoch: 299, running loss(train data): 1.179932951927185, Accuracy(val data): 0.7082706689834595
+epoch: 319, running loss(train data): 1.1717250347137451, Accuracy(val data): 0.7052631378173828
+epoch: 339, running loss(train data): 1.1629431247711182, Accuracy(val data): 0.6977443695068359
+epoch: 359, running loss(train data): 1.161052942276001, Accuracy(val data): 0.7022556662559509
+epoch: 379, running loss(train data): 1.1561342477798462, Accuracy(val data): 0.693233072757721
+epoch: 399, running loss(train data): 1.1473945379257202, Accuracy(val data): 0.6947368383407593
+Finnal Accuracy(test data): 0.7548872232437134

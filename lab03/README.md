@@ -1,0 +1,9 @@
+## 实验三使用说明
+
+PB21000224 陈鸿绪
+
+代码文件在/src下，node_classify_citeseer.py对citeseer数据集做分类任务，path_predict_citeseer.py对citeseer数据集做链路预测任务，对于Cora数据集同理。图卷积类写在Conv_model.py文件中，load_process_data.py根据任务的不同类型进行相应的数据集处理。
+
+训练测试直接运行node_classify_citeseer.py等类似代码文件即可，损失以及准确率等指标输出在控制台。损失曲线在/loss文件夹下。/ouputs文件夹下保存了笔者选择的较优的参数模型对应的控制台输出文本文件。
+
+/tmp是数据集文件夹，由于要求提交作业不能提交数据集，所以数据夹为空（为了便于压缩里面加入空文件datasets.txt），程序运行时将会自动连github下载。
